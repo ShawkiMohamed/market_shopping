@@ -3,6 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+
+  //to make base API for project
+  baseApi: "https://fakestoreapi.com/",
+  // end
+
   production: false
 };
 
